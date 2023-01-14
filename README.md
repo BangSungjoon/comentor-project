@@ -1,0 +1,2 @@
+# comentor-project
+django project
